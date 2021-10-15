@@ -4,7 +4,7 @@ public class AlternatePrimeNumbers {
 
 	public static void main(String[] args) {
 		int flag = 0;
-
+// hello
 		System.out.println("Enter your String");
 		Scanner sc = new Scanner(System.in);
 		String text = sc.nextLine();
